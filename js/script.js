@@ -7,7 +7,6 @@
   AOS.init({
     once: true
   });
-
   
   $(window).on('scroll', function () {
 		//.Scroll to top show/hide
